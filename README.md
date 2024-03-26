@@ -5,7 +5,13 @@ Music Guessr is a Discord bot built with JavaScript and powered by [aoi.js](http
 This bot was created for the NTTS Hackaton as a 'fun little project'. I didn't end up finishing within the timeframe though / didn't feel like submitting it.
 
 > This bot is intended to run on v6.8 (github version) of aoi.js
-> (And a custom fork of aoi.music.)
+> (And a custom fork of aoi.music.)#
+>
+> This project contains:
+> custom functions, and various commands
+
+---
+
 ## Getting Started
 
 To get started with this project, you need to have Node.js and npm installed on your machine. Clone the repository and install the dependencies using npm:
