@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@akarui/aoi.music": "github:faf4a/aoi.music",
-    "aoi.js": "github:AkaruiDevelopment/aoi.js#v6",
+    "@akarui/aoi.music": "github:AkaruiDevelpment/aoi.music",
+    "aoi.js": "github:aoijs/aoi.js#v6",
     "dotenv": "^16.4.5",
     "string-similarity": "^4.0.4"
   }
